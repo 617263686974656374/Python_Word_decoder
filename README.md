@@ -1,4 +1,4 @@
-# Python_codes
+# Python_Word decoder
 The program will prompt you for input: "Enter encoded words separated by semicolons."
 Enter a string of encoded words separated by semicolons, e.g., kcjaelapp;janab;shruka.
 
